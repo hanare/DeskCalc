@@ -1,0 +1,21 @@
+{
+  "name": "deskcalc",
+  "version": "1.0.0",
+  "description": "A desktop calculator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanare"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Prince Kumar Maurya",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^3.0.10"
+  }
+}
