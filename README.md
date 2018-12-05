@@ -9,7 +9,7 @@
 
 ## BUILD
 For Development 
-npm run electron .
+<code>npm run electron .</code>
 
-Using Angular Build and electron 
-npm run electron-build 
+Using Angular Build and electron </br>
+<code>npm run electron-build </code>
