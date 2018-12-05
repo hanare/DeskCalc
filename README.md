@@ -8,7 +8,7 @@
 </ul>
 
 ## BUILD
-For Development 
+For Development </br>
 <code>npm run electron .</code>
 
 Using Angular Build and electron </br>
