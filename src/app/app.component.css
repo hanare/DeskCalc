@@ -3,17 +3,18 @@ nav{
    
     border: 0px;
     padding-left: 5px;
-    background: #d5d5d2;
-     
+    background: #1678dccf;
+    font-size: x-large;
 }
 
 
 nav >header > strong{
   
     text-align: center;
+     
     -webkit-app-region: drag;
     float: left;
-    padding-right: 92%;
+    padding-right: 70%;
 }
 nav > ul{
     display: flex;

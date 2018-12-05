@@ -6,6 +6,7 @@ import { MainContainerComponent } from './main-container/main-container.componen
 import { SketchAreaComponent } from './main-container/sketch-area/sketch-area.component';
 import { NumberPadComponent } from './main-container/number-pad/number-pad.component';
 import {MatGridListModule} from '@angular/material/grid-list';
+import {ElectronService} from './electron.service';
 @NgModule({
   declarations: [
     AppComponent,
@@ -17,7 +18,7 @@ import {MatGridListModule} from '@angular/material/grid-list';
     BrowserModule,
     MatGridListModule 
   ],
-  providers: [],
+  providers: [ElectronService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

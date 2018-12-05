@@ -5,3 +5,7 @@
     -ms-overflow-style: scrollbar ;
     -webkit-app-region: drag;
 } */
+
+body{
+    margin: 0px;
+}

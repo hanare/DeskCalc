@@ -8,9 +8,10 @@ function createWindow(){
 
 	win = new BrowserWindow({
 		width: 540,
-		height:600,
+		height:489,
 		backgroundColor: '#fff',
-		frame : false
+		frame : false,
+		resizable: false
 	})
 	console.log("\n"+__dirname+"  ${__dirname} ");
 	//win.loadURL('file://' + __dirname + '/dist/ircAPP/index.html');
