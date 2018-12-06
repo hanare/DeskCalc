@@ -14,7 +14,7 @@ nav >header > strong{
      
     -webkit-app-region: drag;
     float: left;
-    padding-right: 70%;
+    padding-right: 71.5%;
 }
 nav > ul{
     display: flex;
@@ -35,8 +35,9 @@ nav > ul >li> button{
     margin: 0px;
     padding-left: 5px;
     padding-right: 5px;
-  cursor: pointer;
-  outline: none;
+    padding-top: 7px;
+    cursor: pointer;
+    outline: none;
 
 }
 nav >ul > li > button > img{
