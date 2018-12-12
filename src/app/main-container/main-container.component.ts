@@ -18,6 +18,7 @@ export class MainContainerComponent implements OnInit {
 
   enteredValue(exp: string){
     console.log("main ",exp);
-    this.expression=exp;
+   this.expression=exp;
+
   }
 }
